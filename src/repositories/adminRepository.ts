@@ -3,7 +3,7 @@ import { Iadmin } from "../intefaces/iadmin.interface";
 
 export class AdminRepository implements IAdminRepository {
   private admin: Iadmin = {
-    userName: "admin",
+    userName: "Navya",
     password: "admin12",
   };
 
